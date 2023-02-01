@@ -12,7 +12,7 @@ namespace dominio
         public int Id { get; set; }
         public string Descripcion { get; set; }
 
-
+        // Comentario para segundo commit
         public override string ToString()
         {
             return Descripcion;
