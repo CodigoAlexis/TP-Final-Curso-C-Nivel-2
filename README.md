@@ -1,5 +1,6 @@
 # TP-Final-Curso-C-Nivel-2
-##Consigna TP Integrador
+Consigna TP Integrador
+
 Se necesita una aplicación para la gestión de artículos de un catálogo de un comercio. La aplicación debe ser genérica, es decir, aplicar para cualquier tipo de comercio; y la información que en ella se cargue será consumida luego desde distintos servicios para ser mostradas ya sea en webs, e-commerces, apps mobile, revistas, etc. Esto no es parte del desarrollo, pero sí del contexto en el cual se utilizará la aplicación a desarrollar.
 
 Deberá ser una aplicación de escritorio que contemple la administración de artículos. Las funcionalidades que deberá tener la aplicación serán:
