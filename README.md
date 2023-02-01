@@ -36,7 +36,7 @@ No deben realizar modificaciones en la DB, ante cualquier duda, me consultan.
 Deben entregar un zip con la solución dentro con el nombre TPFinalNivel2_Apellido, por ejemplo: TPFinalNivel2_SarFernandez
 Pueden eliminar las carpetas "bin" para achicar el tamaño del archivo final, esto es opcional.
 
-#Script de generación de Base de Datos:
+Script de generación de Base de Datos:
 
 
 use master
